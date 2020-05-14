@@ -1,5 +1,15 @@
 import java.util.Queue;
 
+/**
+ * This class acts as part of the Waitlist program. This class is used to test each method in the program.
+ *
+ * JDK version: 11.0.3
+ *
+ * @author  Kyrel Polifrone || 822711442 || CS108 Section 04
+ * @version 1.0.0
+ * @since   05-03-2020
+ */
+
 public class UnitTests {
     public static void main(String[] args) {
         getNameTest();
